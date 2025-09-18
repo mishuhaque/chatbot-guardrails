@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.95+-green)
+![Docker](https://img.shields.io/badge/docker-ready-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
 # 🤖 Chatbot Guardrails
 
 A lightweight plugin to **reduce hallucinations** and **add fact-checking** to LLM/chatbot responses using **RAG (Retrieval-Augmented Generation)**.
@@ -75,3 +81,10 @@ Response
 Run unit tests with:
 pytest tests/
 
+## 📸 Screenshots
+
+### Swagger UI
+![Swagger UI](assets/1.png)
+
+### Example Request
+![cURL Demo](assets/2.png)
