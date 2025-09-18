@@ -84,7 +84,7 @@ pytest tests/
 ## 📸 Screenshots
 
 ### Swagger UI
-![Swagger UI](assets/1.png)
+![Swagger UI](tests/assets/1.png)
 
 ### Example Request
-![cURL Demo](assets/2.png)
+![cURL Demo](tests/assets/2.png)
