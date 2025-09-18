@@ -83,8 +83,10 @@ pytest tests/
 
 ## 📸 Screenshots
 
+
 ### Swagger UI
-![Swagger UI](tests/assets/1.png)
+![Swagger UI](https://raw.githubusercontent.com/mishuhaque/chatbot-guardrails/main/tests/assets/1.png)
 
 ### Example Request
-![cURL Demo](tests/assets/2.png)
+![cURL Demo](https://raw.githubusercontent.com/mishuhaque/chatbot-guardrails/main/tests/assets/2.png)
+
