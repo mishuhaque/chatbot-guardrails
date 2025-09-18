@@ -40,7 +40,7 @@ chatbot-guardrails/
 git clone https://github.com/mishuhaque/chatbot-guardrails.git
 cd chatbot-guardrails
 pip install -r requirements.txt
-
+```
 
 uvicorn src.chatbot_guardrails.api:app --reload
 Visit Swagger UI: http://127.0.0.1:8000/docs
