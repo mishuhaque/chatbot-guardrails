@@ -6,7 +6,7 @@
 
 # 🤖 Chatbot Guardrails
 
-A lightweight plugin to **reduce hallucinations** and **add fact-checking** to LLM/chatbot responses using **RAG (Retrieval-Augmented Generation)**.
+A lightweight plugin to **reduce hallucinations** and **add fact-checking** to LLM/chatbot responses using **RAG (Retrieval-Augmented Generation)**. It will help most of the company's outdated chatbots.
 
 ---
 
